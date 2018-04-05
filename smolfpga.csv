@@ -1,0 +1,21 @@
+SHOPPING CART,,,,,,,,,,
+This is not an invoice,,,,,,,,,,
+01-Apr-18 14:00:29,,,,,,,,,,
+,Mouser #,Mfr. #,Manufacturer,Customer #,Description,RoHS,Lifecycle,Order Qty.,Price (USD),Ext.: (USD)
+1,579-6001CI2A0160000T,DSC6001CI2A-016.0000T,Microchip,,"Standard Clock Oscillators MEMS Oscillator, Ultra Low Power, LVCMOS, -40C-85C, 25ppm, 3.2x2.5mm",RoHS Compliant,New Product,3,$1.06,$3.18
+2,81-GRM155R71A104MA1D,GRM155R71A104MA01D,Murata,,Multilayer Ceramic Capacitors MLCC - SMD/SMT ,RoHS Compliant,,25,$0.03,$0.75
+3,81-GRM155R71E103JA1J,GRM155R71E103JA01J,Murata,,Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 0.01uF 25volts X7R 5%,RoHS Compliant,,15,$0.034,$0.51
+4,81-GRM155R6YA105KE1J,GRM155R6YA105KE11J,Murata,,Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 1uF 35volts *Derate Voltage/Temp,RoHS Compliant,,12,$0.181,$2.17
+5,81-GRM155R60G106MEJ,GRM155R60G106ME44J,Murata,,Multilayer Ceramic Capacitors MLCC - SMD/SMT 10UF      4V   20%        0402,RoHS Compliant,,6,$0.24,$1.44
+6,81-BLM11P300S,BLM18PG300SN1D,Murata,,Ferrite Beads 0603 30 OHM,RoHS Compliant,,3,$0.10,$0.30
+7,611-PTS810SJM250SMTR,PTS810 SJM 250 SMTR LFS,C&K Switches,,Tactile Switches ,RoHS Compliant,,3,$0.33,$0.99
+8,667-ERJ-2RKF1501X,ERJ-2RKF1501X,Panasonic,,Thick Film Resistors - SMD 0402 1.5Kohms 1% AEC-Q200,RoHS Compliant By Exemption,,3,$0.15,$0.45
+9,667-ERJ-2RKD68R0X,ERJ2RKD68R0X,Panasonic,,Thick Film Resistors - SMD 0402 Resistor 0.5% 100ppm 68Ohm,RoHS Compliant,New Product,6,$0.11,$0.66
+10,667-ERJ-2RKF1002X,ERJ-2RKF1002X,Panasonic,,Thick Film Resistors - SMD 0402 10Kohms 1% AEC-Q200,RoHS Compliant,,15,$0.021,$0.32
+11,595-LP5907MFX-1.2NPB,LP5907MFX-1.2/NOPB,Texas Instruments,,LDO Voltage Regulators 250mA Ultra-Lo Noise LDO Reg,RoHS Compliant,,3,$0.54,$1.62
+12,595-LP5907MFX-3.3NPB,LP5907MFX-3.3/NOPB,Texas Instruments,,LDO Voltage Regulators 250mA Ultra-Lo Noise LDO Reg,RoHS Compliant,,3,$0.54,$1.62
+13,988-AT25SF041-XMHD-T,AT25SF041-XMHD-T,Adesto Technologies,,"NOR Flash 8-TSSOP, IND TEMP, 2.5V, T&R",RoHS Compliant,,3,$0.52,$1.56
+14,649-10118192-0001LF,10118192-0001LF,FCI / Amphenol,,USB Connectors 5P MICRO USB TYPE B RECEPTACLE,RoHS Compliant,,3,$0.46,$1.38
+15,842-ICE40LM4K-CM49,ICE40LM4K-CM49,Lattice,,FPGA - Field Programmable Gate Array 3520 LUTs 80K RAM 1.2V,RoHS Compliant,,1,$6.96,$6.96
+16,842-ICE40LM2K-CM49,ICE40LM2K-CM49,Lattice,,FPGA - Field Programmable Gate Array 2000 LUTs 80K RAM 1.2V,RoHS Compliant,,1,$5.81,$5.81
+Prices are reflected at the date and time shown.,,,,,,,,,Shipping Charge:,Estimate
